@@ -21,4 +21,4 @@ Parameters used in the control are:
 
 __Note and Thanks__
 * to the PCF Autocompelte project by Sriram Balaji - https://github.com/srirambalajigit as I used his project https://github.com/srirambalajigit/PCFControls/tree/master/Autocomplete/Autocomplete as a reference when building my first PCF control.
-* to my colleague Durgaprasad Katarti - https://github.com/durgaprasadkatari for updating it to use FluentUI
+* to my colleague Durgaprasad Katari - https://github.com/durgaprasadkatari for updating it to use FluentUI
